@@ -13,4 +13,5 @@ SolderSafe is a portable robot-inspired solder fume extractor.
 Solder fumes are unpleasant and can be irritating. I wanted to build a simple portable extractor that I can use while building electronics projects.
 
 ## Status
-Design Phase
+Design phase
+-to design the 3d frame for the setup.
